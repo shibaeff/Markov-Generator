@@ -4,6 +4,8 @@
 
 ##### master and simple-features branches -- basic generation
 
+##### NOTE: currently master and simple-features branch are alike. simple-features branch is intended to reflect the past state of work.
+
 This is a simple text generator based on the implementation of a basic Markov model.
 
 It includes:
